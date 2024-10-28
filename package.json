@@ -15,6 +15,7 @@
   },
   "preferGlobal": true,
   "dependencies": {
+    "random-string-message-developer-franco": "^1.4.0",
     "user": "^0.0.0"
   }
 }
