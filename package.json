@@ -1,0 +1,17 @@
+{
+  "name": "random-string-message-developer-franco",
+  "version": "1.0.0",
+  "description": "Random strings message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Franco Barros <francobarrosdaniel@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/franco-barros/random-string-message-developer-franco",
+  "bin": {
+    "random-string": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
