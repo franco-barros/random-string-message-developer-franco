@@ -1,6 +1,6 @@
 {
   "name": "random-string-message-developer-franco",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Random strings message",
   "main": "index.js",
   "scripts": {
